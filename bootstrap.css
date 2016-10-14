@@ -1,0 +1,23 @@
+.navbar-default {
+    background-color: #b3db5b;
+}
+
+.navbar-default .navbar-brand {
+    color: black;
+}
+
+.navbar-default .navbar-nav li a {
+    color: white;
+}
+
+img {
+    width: 100%;
+}
+
+.col-md-4 {
+    text-align: center;
+}
+
+.blurb {
+    font-size: 10px;
+}
